@@ -1,0 +1,15 @@
+.venv/
+models/
+DeepSeek-OCR-model/
+Diagnostico_Exportador_2019/
+*.pdf
+ocr_outputs*/
+checkbox_debug/
+logs/
+*.log
+__pycache__/
+*.xlsx
+deepseek_ocr_page_*.txt
+deepseek_questionnaire_page_*.txt
+extraction_results*.xlsx
+Diagnostico_exportador_Agropecuaria_Produza_2023.json
